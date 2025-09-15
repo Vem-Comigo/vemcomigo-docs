@@ -8,4 +8,5 @@ Abaixo está uma lista de documentos e recursos importantes:
 
 - [Documentação do Projeto](https://github.com/Vem-Comigo/vemcomigo-docs/raw/refs/heads/main/Vem%20Comigo%20Documment%C3%A7%C3%A3o.docx)  
 - [Wireframe do projeto](https://github.com/Vem-Comigo/vemcomigo-docs/blob/main/Wireframe_ProjetoIntegrador_CompletoFinal.pdf)  
-- [Protótipo no Figma](https://www.figma.com/design/uqapA2AKWi2TK3c5PdORDh/Vem-Comigo?node-id=0-1&p=f&t=cVYtluMCGAmw7vnu-0)  
+- [Protótipo no Figma](https://www.figma.com/design/uqapA2AKWi2TK3c5PdORDh/Vem-Comigo?node-id=0-1&p=f&t=cVYtluMCGAmw7vnu-0)
+- [Documento de visão](https://github.com/Vem-Comigo/vemcomigo-docs/blob/main/documento-de-visao-vem-comigo-1.pdf) 
