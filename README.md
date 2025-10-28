@@ -10,3 +10,10 @@ Abaixo está uma lista de documentos e recursos importantes:
 - [Wireframe do projeto](https://github.com/Vem-Comigo/vemcomigo-docs/blob/main/Wireframe_ProjetoIntegrador_CompletoFinal.pdf)  
 - [Protótipo no Figma](https://www.figma.com/design/uqapA2AKWi2TK3c5PdORDh/Vem-Comigo?node-id=0-1&p=f&t=cVYtluMCGAmw7vnu-0)
 - [Documento de visão](https://github.com/Vem-Comigo/vemcomigo-docs/blob/main/documento-de-visao-vem-comigo-1.pdf) 
+
+# Navegação
+<a href="https://github.com/Vem-Comigo" target="_blank">Main Page</a> <br>
+<a href="https://github.com/Vem-Comigo/vemcomigo-frontend" target="_blank">Frontend</a> <br>
+<a href="https://github.com/Vem-Comigo/vemcomigo-backend" target="_blank">Backend</a> <br>
+<a href="https://github.com/Vem-Comigo/vemcomigo-assets" target="_blank">Assets</a>
+<a href="[https://github.com/Vem-Comigo/vemcomigo-assets](https://github.com/Vem-Comigo/vemcomigo-docs)" target="_blank">Documentação</a>
