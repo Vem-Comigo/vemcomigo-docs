@@ -12,8 +12,8 @@ Abaixo está uma lista de documentos e recursos importantes:
 - [Documento de visão](https://github.com/Vem-Comigo/vemcomigo-docs/blob/main/documento-de-visao-vem-comigo-1.pdf) 
 
 # Navegação
-<a href="https://github.com/Vem-Comigo" target="_blank">Main Page</a> <br>
-<a href="https://github.com/Vem-Comigo/vemcomigo-frontend" target="_blank">Frontend</a> <br>
-<a href="https://github.com/Vem-Comigo/vemcomigo-backend" target="_blank">Backend</a> <br>
-<a href="https://github.com/Vem-Comigo/vemcomigo-assets" target="_blank">Assets</a> <br>
-<a href="https://github.com/Vem-Comigo/vemcomigo-docs" target="_blank">Documentação</a> 
+- <a href="https://github.com/Vem-Comigo" target="_blank">Main Page</a> <br>
+- <a href="https://github.com/Vem-Comigo/vemcomigo-frontend" target="_blank">Frontend</a> <br>
+- <a href="https://github.com/Vem-Comigo/vemcomigo-backend" target="_blank">Backend</a> <br>
+- <a href="https://github.com/Vem-Comigo/vemcomigo-assets" target="_blank">Assets</a> <br>
+- <a href="https://github.com/Vem-Comigo/vemcomigo-docs" target="_blank">Documentação</a> 
